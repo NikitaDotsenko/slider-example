@@ -71,6 +71,7 @@
     justify-content: center;
     position: absolute;
     left: 0;
+    top: 0;
   }
   .active {
     z-index: 4;
